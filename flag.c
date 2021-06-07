@@ -9,7 +9,7 @@ struct student
 int main()
 {
 	struct student stu1;
-	
+	printf("Welcome To SaAd Assignment::");
 	printf("Enter student name::");
 	scanf("%s",&stu1.name);
 	printf("Enter roll number::");
