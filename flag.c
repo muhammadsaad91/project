@@ -2,7 +2,7 @@
 #include<conio.h>
 struct student 
 {
-	char name[15];
+	char name[20];
 	
 	int roll ;
 };
